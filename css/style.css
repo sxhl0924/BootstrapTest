@@ -38,3 +38,33 @@ body{
 .navbar-dark{
   background-color: #512DA8;
 }
+
+.card-header{
+  background-color: #DAA520;
+}
+
+.card{
+  margin:0px auto;
+  top:0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+.block {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #DAA520;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.tab-content{
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
